@@ -1,5 +1,5 @@
 {
-  "name": "@ren/plugin-back-to-top",
+  "name": "@ren-34/plugin-back-to-top",
   "version": "1.0.0",
   "description": "back-to-top plugin for vuepress",
   "keywords": [
@@ -8,17 +8,16 @@
     "vue",
     "vuepress"
   ],
-  "homepage": "https://github.com/vuejs/vuepress/tree/master/packages/%40vuepress/plugin-back-to-top#readme",
-  "bugs": {
-    "url": "https://github.com/vuejs/vuepress/issues"
-  },
+  "homepage": "https://github.com/ren-34/plugin-back-to-top",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/vuejs/vuepress.git",
-    "directory": "packages/@vuepress/plugin-back-to-top"
+    "url": "https://github.com/ren-34/plugin-back-to-top"
+  },
+  "bugs": {
+    "url": "https://github.com/ren-34/plugin-back-to-top/issues"
   },
   "license": "MIT",
-  "author": "ULIVZ <chl814@foxmail.com>",
+  "author": "lencamo",
   "main": "index.js",
   "dependencies": {
     "@vuepress/types": "1.9.10",
@@ -26,6 +25,5 @@
   },
   "publishConfig": {
     "access": "public"
-  },
-  "gitHead": "a3e4bbab8df198b8b18d55031ff0b6f0bf190fdb"
+  }
 }

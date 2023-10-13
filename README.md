@@ -1,4 +1,4 @@
-## @ren/plugin-back-to-top
+## @Ren-34/plugin-back-to-top
 
 > Back-to-top plugin for VuePress
 
@@ -9,7 +9,7 @@
 - 安装
 
 ```sh
-npm install @ren/plugin-back-to-top
+npm install @ren-34/plugin-back-to-top
 ```
 
 - 使用
